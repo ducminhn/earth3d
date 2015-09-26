@@ -1,0 +1,22 @@
+{
+  "name": "earth3d",
+  "version": "1.0.0",
+  "description": "ThreeJS globe for Drive 4.0 website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ducminhn/earth3d.git"
+  },
+  "author": "Minh Nguyen <minhnguyen_1302@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ducminhn/earth3d/issues"
+  },
+  "homepage": "https://github.com/ducminhn/earth3d#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
